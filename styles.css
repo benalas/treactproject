@@ -525,7 +525,7 @@ footer {
     margin-left: -32px;
     margin-right: -32px;
     margin-bottom: -32px;
-    overflow: hidden;
+    margin-top: 96px;
 }
 
 .footer__row {
